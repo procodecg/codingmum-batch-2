@@ -12,8 +12,5 @@
 6. rina
 7. Dwi
 8. Irma
-<<<<<<< HEAD
 9. zeina
 10.
-=======
->>>>>>> ac134b23d96435ace75d7ac349dc7e733571cb33
