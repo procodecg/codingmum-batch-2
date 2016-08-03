@@ -4,3 +4,4 @@
 3. dedi
 4. ema
 5. rina
+6. Dwi
